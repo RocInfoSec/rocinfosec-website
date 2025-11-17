@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rocinfosec.github.io/rocinfosec-website/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://rocinfosec.github.io/rocinfosec-website/</loc>
+</url>
+<url>
+<loc>https://rocinfosec.github.io/rocinfosec-website/blog/cmmc-20-what-defense-contractors-need-to-know/</loc>
+</url>
+<url>
+<loc>https://rocinfosec.github.io/rocinfosec-website/blog/iso-27001-certification-your-roadmap-to-success/</loc>
+</url>
+<url>
+<loc>https://rocinfosec.github.io/rocinfosec-website/blog/soc-2-audit-preparation-a-practical-guide/</loc>
+</url>
+<url>
+<loc>https://rocinfosec.github.io/rocinfosec-website/blog/understanding-nist-800-53/</loc>
+</url>
+<url>
+<loc>https://rocinfosec.github.io/rocinfosec-website/home/rochester-information-security-about/</loc>
+</url>
+<url>
+<loc>https://rocinfosec.github.io/rocinfosec-website/home/rochester-information-security-contact/</loc>
+</url>
+<url>
+<loc>https://rocinfosec.github.io/rocinfosec-website/home/rochester-information-security-resources/</loc>
+</url>
+<url>
+<loc>https://rocinfosec.github.io/rocinfosec-website/home/rochester-information-security-services/</loc>
+</url>
+</urlset>

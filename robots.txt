@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rocinfosec.github.io/rocinfosec-website/sitemap.xml
